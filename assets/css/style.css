@@ -102,7 +102,7 @@ body{
     border: 2px solid #236b02;
 }
 .module.green > h3 {
-    background-color: #236b02;
+    background-color: #222;
 }
 .module.red {
     border: 2px solid #6b0e02;
@@ -114,5 +114,4 @@ body{
     border: 2px solid #000000;
 }
 .module.black > h3 {
-    background-color: #000;
-}
+    background-color: #000;}

@@ -16,13 +16,30 @@
         <div class="content">
             <nav class="modules">
                 <div class="module red">
-                    <h3>Módulo - 01</h3>
+                    <h3>Módulo - 02</h3>
                     <ul>
-                        <li><a href="exercises.php?dir=exercises&file=exercise_01">Exercício A</a></li>
-                        <li><a href="#">Exercício B</a></li>
-                        <li><a href="#">Exercício C</a></li>
-                    </ul>
-                </div>                        
+                        <li>
+                            <a href="exercises.php?dir=exercises&file=exercise_01">
+                                Olá PHP
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercises.php?dir=exercises&file=exercise_02">
+                                Integração HTML
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercises.php?dir=exercises&file=exercise_03">
+                                Integração CSS
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercises.php?dir=exercises&file=challenge">
+                                Desafio
+                            </a>
+                        </li>
+                    <ul>
+			    </div>                        
             </nav>
         </div>
     </main>
@@ -30,4 +47,4 @@
         COD3R & ALUNOS PHP <?= date('Y');?>
     </footer>
 </body>
-</html>Teste
+</html>
