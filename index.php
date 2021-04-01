@@ -16,7 +16,7 @@
         <div class="content">
             <nav class="modules">
                 <div class="module red">
-                    <h3>Módulo - 02</h3>
+                    <h3>Integração</h3>
                     <ul>
                         <li>
                             <a href="exercises.php?dir=exercises&file=exercise_01">
@@ -39,7 +39,42 @@
                             </a>
                         </li>
                     <ul>
-			    </div>                        
+			    </div>
+                <div class="module green">
+                    <h3>Tipos</h3>
+                    <ul>
+                        <li>
+                            <a href="exercises.php?dir=exercises&file=integer">
+                                Inteiros
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercises.php?dir=exercises&file=float">
+                                Float
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercises.php?dir=exercises&file=arithmetic">
+                                Aritmética
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercises.php?dir=exercises&file=string">
+                                String
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercises.php?dir=exercises&file=boolean">
+                                Booleano
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercises.php?dir=exercises&file=convert">
+                                Conversões
+                            </a>
+                        </li>
+                    </ul>
+			    </div>                               
             </nav>
         </div>
     </main>
