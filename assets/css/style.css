@@ -115,3 +115,9 @@ body{
 }
 .module.black > h3 {
     background-color: #000;}
+    .module.pink {
+        border: 2px solid #e910de;
+    }
+    .module.pink > h3 {
+        background-color: #e910de;}
+    

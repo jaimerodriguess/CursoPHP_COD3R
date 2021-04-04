@@ -19,22 +19,22 @@
                     <h3>Integração</h3>
                     <ul>
                         <li>
-                            <a href="exercises.php?dir=exercises&file=exercise_01">
+                            <a href="exercises.php?dir=exercises/integration&file=exercise_01">
                                 Olá PHP
                             </a>
                         </li>
                         <li>
-                            <a href="exercises.php?dir=exercises&file=exercise_02">
+                            <a href="exercises.php?dir=exercises/integration&file=exercise_02">
                                 Integração HTML
                             </a>
                         </li>
                         <li>
-                            <a href="exercises.php?dir=exercises&file=exercise_03">
+                            <a href="exercises.php?dir=exercises/integration&file=exercise_03">
                                 Integração CSS
                             </a>
                         </li>
                         <li>
-                            <a href="exercises.php?dir=exercises&file=challenge">
+                            <a href="exercises.php?dir=exercises/integration&file=challenge">
                                 Desafio
                             </a>
                         </li>
@@ -44,37 +44,87 @@
                     <h3>Tipos</h3>
                     <ul>
                         <li>
-                            <a href="exercises.php?dir=exercises&file=integer">
+                            <a href="exercises.php?dir=exercises/types&file=integer">
                                 Inteiros
                             </a>
                         </li>
                         <li>
-                            <a href="exercises.php?dir=exercises&file=float">
+                            <a href="exercises.php?dir=exercises/types&file=float">
                                 Float
                             </a>
                         </li>
                         <li>
-                            <a href="exercises.php?dir=exercises&file=arithmetic">
+                            <a href="exercises.php?dir=exercises/types&file=arithmetic">
                                 Aritmética
                             </a>
                         </li>
                         <li>
-                            <a href="exercises.php?dir=exercises&file=string">
+                            <a href="exercises.php?dir=exercises/types&file=string">
                                 String
                             </a>
                         </li>
                         <li>
-                            <a href="exercises.php?dir=exercises&file=boolean">
+                            <a href="exercises.php?dir=exercises/types&file=boolean">
                                 Booleano
                             </a>
                         </li>
                         <li>
-                            <a href="exercises.php?dir=exercises&file=convert">
+                            <a href="exercises.php?dir=exercises/types&file=convert">
                                 Conversões
                             </a>
                         </li>
                     </ul>
-			    </div>                               
+			    </div>
+                <div class="module black">
+                    <h3>Variáveis</h3>
+                    <ul>
+                        <li>
+                            <a href="exercises.php?dir=exercises/variable&file=variable">
+                                Variáveis
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercises.php?dir=exercises/variable&file=challengeEquation">
+                                Desafio
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercises.php?dir=exercises/variable&file=attrib">
+                                Atribuições
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercises.php?dir=exercises/variable&file=interpolation">
+                                Interpolação
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercises.php?dir=exercises/variable&file=variableVariable">
+                                Variáveis Variáveis
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercises.php?dir=exercises/variable&file=valuePerReference">
+                                Valor ou Referêcia
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercises.php?dir=exercises/variable&file=constant">
+                                Constantes
+                            </a>
+                        </li>
+                    </ul>                    
+			    </div>
+                <div class="module pink">
+                    <h3>Condicionais</h3>
+                    <ul>
+                        <li>
+                            <a href="exercises.php?dir=exercises/control&file=ifElse">
+                                IF/ELSE
+                            </a>
+                        </li>
+                    </ul>                    
+			    </div>                         
             </nav>
         </div>
     </main>
