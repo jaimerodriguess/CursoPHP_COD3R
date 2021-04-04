@@ -2,6 +2,6 @@
 
 <?php
 
-if(true)
+if(false)
 	echo 'certo';
 	echo 'errado';
