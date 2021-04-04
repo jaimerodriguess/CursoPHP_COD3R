@@ -3,5 +3,19 @@
 <?php
 
 if(false)
-	echo 'certo';
-	echo 'errado';
+	echo '<br> certo';
+	else if(false)
+	echo "certo B";
+	else
+	echo '<br> errado';
+
+	if(false) {
+		echo '<br> certo';
+	}	
+	else if(false) {
+		echo "certo B";
+	} else {
+		echo '<br> errado';
+	}
+
+
