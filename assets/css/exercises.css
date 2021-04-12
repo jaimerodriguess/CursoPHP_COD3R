@@ -41,3 +41,7 @@ body.exercises{
     margin-bottom: 20px;
     border-bottom: 1px solid #999;
 }
+[final_line]{
+    border-bottom: 1px solid #333;
+   
+}

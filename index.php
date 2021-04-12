@@ -123,8 +123,83 @@
                                 IF/ELSE
                             </a>
                         </li>
+                        <li>
+                            <a href="exercises.php?dir=exercises/control&file=relational">
+                                Op Relacionais
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercises.php?dir=exercises/control&file=challengePI">
+                                Desafio PI
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercises.php?dir=exercises/control&file=logic">
+                                Op Lógicos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercises.php?dir=exercises/control&file=challengeOperator">
+                                Desafio Op
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercises.php?dir=exercises/control&file=ternary">
+                                Op Ternário
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercises.php?dir=exercises/control&file=switch">
+                                Switch
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercises.php?dir=exercises/control&file=challengeSwitch">
+                                Desafio Switch
+                            </a>
+                        </li>
                     </ul>                    
-			    </div>                         
+			    </div>
+                <div class="module brown">
+                    <h3>Array</h3>
+                    <ul>
+                        <li>
+                            <a href="exercises.php?dir=exercises/array&file=basic">
+                                Basico
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercises.php?dir=exercises/array&file=mapArray">
+                                Mapas
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercises.php?dir=exercises/array&file=challengeIndex">
+                                Desafio Index
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercises.php?dir=exercises/array&file=challengeMonths">
+                                Desafio Meses
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercises.php?dir=exercises/array&file=operatorArray">
+                                Operações com Arrays
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercises.php?dir=exercises/array&file=challengeArray">
+                                Desafio Sorteiro
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercises.php?dir=exercises/array&file=multi">
+                                Multidimensionais
+                            </a>
+                        </li>
+                    </ul>                    
+			    </div>                                   
             </nav>
         </div>
     </main>
