@@ -27,7 +27,7 @@ class User extends People {
         echo "Usuário destruido!</br>";
     }
     public function presentation(){
-        echo parent::presentation();
+        parent::presentation();
         return ", meu login é {$this->login}";
     }
 }
