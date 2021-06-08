@@ -126,4 +126,10 @@ body{
         }
         .module.brown > h3 {
             background-color: #531;}
+
+            .module.silver {
+                border: 2px solid #999;
+            }
+            .module.silver > h3 {
+                background-color: #999;}
     
